@@ -1,0 +1,14 @@
+An old Space Invaders a-like which I made for a University course.
+
+To run:
+If you are running Windows, just go into the \src folder and run A.bat
+Otherwise, be sure to compile and run the game from the src folder rather than the src\Alpha Battalion folder, as the source is contained in a package.
+
+Instructions:
+Arrow keys to move
+Space to shoot missile
+B to shoot bomb, B again to explode bomb
+
+Shoot boxes to pick options
+
+Shoot all aliens in the level and try not to die!
